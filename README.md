@@ -5,7 +5,7 @@ Discord İmageLogger Webhook
 
 It is a program that helps you to get some of your information thanks to the photo you throw on the other side, it was written in python language.
 
-If you don't know how to use:
+If you don't know how to use: https://www.youtube.com/watch?v=yPXeYPu8y58&t=25s
 
 You can watch it here.
 How to reach me: Sye#1144
